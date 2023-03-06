@@ -13,5 +13,9 @@
 
 2. Нарисовать блок-схему алгоритма
 
-Блок схема алгоритма расположенна непосредственно на самом репозитории -> ![diagrama](https://github.com/SemenBaranov/control/blob/main/diagrama.png)
+*Блок схема алгоритма:* ![diagrama](https://github.com/SemenBaranov/control/blob/main/diagrama.png)
 
+3. Снабдить репозиторий оформленным текстовым описанием решения
+
+*Ссылка на файл Readme.md 
+<https://github.com/SemenBaranov/control/blob/main/Readme.md>*
